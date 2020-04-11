@@ -1,0 +1,21 @@
+Enter Total Process Count : 3                                                                                                        
+                                                                                                                                     
+Enter Total Resource Count : 3                                                                                                       
+                                                                                                                                     
+Enter Allocated Resource Count as Table (Process in rows, and Resource in columns) :                                                 
+1 2 1                                                                                                                                
+2 3 1                                                                                                                                
+2 1 1                                                                                                                                
+                                                                                                                                     
+Enter Maximum Resource Count Limit as Table (Process in rows, and Resource limit in columns) :                                       
+4 5 2                                                                                                                                
+2 31                                                                                                                                 
+1                                                                                                                                    
+1 2 4                                                                                                                                
+                                                                                                                                     
+Enter available resource count in the same order as above for each resource :                                                        
+1                                                                                                                                    
+5                                                                                                                                    
+6                                                                                                                                    
+                                                                                                                                     
+Panic Deadlock initially.  
