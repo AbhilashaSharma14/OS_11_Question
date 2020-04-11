@@ -1,0 +1,26 @@
+Enter Total Process Count : 3                                                                                                        
+                                                                                                                                     
+Enter Total Resource Count : 3                                                                                                       
+                                                                                                                                     
+Enter Allocated Resource Count as Table (Process in rows, and Resource in columns) :                                                 
+0 0 1                                                                                                                                
+3 2 0                                                                                                                                
+2 1 1                                                                                                                                
+                                                                                                                                     
+Enter Maximum Resource Count Limit as Table (Process in rows, and Resource limit in columns) :                                       
+8 4 3                                                                                                                                
+6 2 0                                                                                                                                
+3 3 3                                                                                                                                
+                                                                                                                                     
+Enter available resource count in the same order as above for each resource :                                                        
+3 2 2                                                                                                                                
+                                                                                                                                     
+Initially system is in Safe State                                                                                                    
+How many number of requests will arrive : 1                                                                                          
+                                                                                                                                     
+Request 1 :                                                                                                                          
+Enter Process ID which request resources : 0                                                                                         
+                                                                                                                                     
+Enter 3 space separated integers each for each resource type : 0 0 2
+Granting the Resources. We have Enough resource to grant.
+System has a Stable State even after the resource requested was granted
