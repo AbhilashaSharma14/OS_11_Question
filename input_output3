@@ -1,0 +1,29 @@
+Enter Total Process Count : 3                                                                                                        
+                                                                                                                                     
+Enter Total Resource Count : 3                                                                                                       
+                                                                                                                                     
+Enter Allocated Resource Count as Table (Process in rows, and Resource in columns) :                                                 
+0 0 2                                                                                                                                
+0 2 0                                                                                                                                
+2 0 0                                                                                                                                
+                                                                                                                                     
+Enter Maximum Resource Count Limit as Table (Process in rows, and Resource limit in columns) :                                       
+2 2 2                                                                                                                                
+3 2 1                                                                                                                                
+1 2 2                                                                                                                                
+                                                                                                                                     
+Enter available resource count in the same order as above for each resource :                                                        
+4 4 4                                                                                                                                
+                                                                                                                                     
+Initially system is in Safe State                                                                                                    
+How many number of requests will arrive : 1                                                                                          
+                                                                                                                                     
+Request 1 :                                                                                                                          
+Enter Process ID which request resources : 0                                                                                         
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+Enter 3 space separated integers each for each resource type : 2 3 1                                                                 
+Segmentation fault (core dumped)
